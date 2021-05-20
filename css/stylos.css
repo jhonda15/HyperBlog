@@ -18,6 +18,11 @@ body{
 
 }
 
+.cabecera .logo{
+    width: 80px;
+    vertical-align: middle;
+}
+
 #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
