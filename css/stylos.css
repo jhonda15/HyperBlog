@@ -1,4 +1,5 @@
 body{
+    background-color: #777;
     color: red;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
@@ -30,6 +31,7 @@ body{
 }
 
 .container{
+    background: white;
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -39,4 +41,11 @@ body{
 
 .container h1{
     font-size: 20px;
+}
+
+#footer{
+    background: #777;
+    colo: white;
+    text-align: center;
+    padding: 0.5em;
 }
