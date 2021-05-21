@@ -12,5 +12,7 @@ Un blog increíble para el[ curso de Git y Github] de [Platzi]
 * Creado por el increíble Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
+* creado por el increible Platzi team
+
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo.
